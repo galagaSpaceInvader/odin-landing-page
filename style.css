@@ -39,6 +39,7 @@ body {
 .bottomOfHeader h1 {
     font-size: 48px;
     color: #F9FAF8;
+    font-weight: 900;
 }
 
 li {
@@ -95,7 +96,7 @@ a {
 
 .randomInformation h2 {
     color: #1F2937;
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 900;
 }
 
@@ -174,7 +175,7 @@ a {
     background-color: #1F2937;
     justify-content: center;
     align-items: center;
-    padding: 60px;
+    padding: 40px;
     font-size: 15px;
     font-weight: 600px;
 }
