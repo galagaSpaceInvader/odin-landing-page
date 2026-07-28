@@ -167,3 +167,14 @@ a {
     border-radius: 9px;
     color: white;
 }
+
+.footer {
+    display: flex;
+    color: white;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    font-size: 15px;
+    font-weight: 600px;
+}
