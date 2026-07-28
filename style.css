@@ -143,3 +143,27 @@ a {
     font-size: 20px;
     text-align: right;
 }
+
+.CTA {
+    background-color: #3882F6;
+    margin: 50px;
+    padding: 60px;
+    padding-inline: 100px;
+    border-radius: 13px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CTA h2, .CTA p {
+    margin: 0;
+    color: white;
+}
+
+.CTA button {
+    height: 40px;
+    width: 120px;
+    background-color: #3882F6;
+    border: 3px solid white;
+    border-radius: 9px;
+    color: white;
+}
